@@ -74,7 +74,7 @@ def perform_measurements(base_containers):
             greedy_times.append(greedy_time)
             errors.append(measurement_error)
 
-        result_line = f"Capacity: {b}, Dynamic avg time: {avg(dynamic_times):.8f}, Greedy avg time: {avg(greedy_times):.8f}, Average error: {avg(errors):.8f}"
+        result_line = f"Capacity: {b}, Dynamic avg time: {avg(dynamic_times):.10f}, Greedy avg time: {avg(greedy_times):.10f}, Average error: {avg(errors):.10f}"
         results.append(result_line + "\n")
         print(result_line)  # Wyświetla wyniki na konsoli w trakcie działania programu
 
@@ -98,7 +98,7 @@ def save_results_to_file(results):
 
 
 # Konfiguracja
-NUM_CONTAINERS = 600
+NUM_CONTAINERS = 6000
 WEIGHT_MIN = 1
 WEIGHT_MAX = 150
 VALUE_MIN = 1

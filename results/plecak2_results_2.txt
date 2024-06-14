@@ -1,0 +1,15 @@
+Capacity: 400, Dynamic avg time: 0.5944518200, Greedy avg time: 0.0008476400, Average error: 0.0005431831
+Capacity: 800, Dynamic avg time: 0.9594780667, Greedy avg time: 0.0008540250, Average error: 0.0002715915
+Capacity: 1200, Dynamic avg time: 1.3221210842, Greedy avg time: 0.0008550368, Average error: 0.0001715315
+Capacity: 1600, Dynamic avg time: 1.6841152846, Greedy avg time: 0.0008578192, Average error: 0.0001253499
+Capacity: 2000, Dynamic avg time: 2.0454888000, Greedy avg time: 0.0009015182, Average error: 0.0000987606
+Capacity: 2400, Dynamic avg time: 2.4106624675, Greedy avg time: 0.0008968900, Average error: 0.0000814775
+Capacity: 2800, Dynamic avg time: 2.7771671362, Greedy avg time: 0.0008938787, Average error: 0.0000693425
+Capacity: 3200, Dynamic avg time: 3.1425624944, Greedy avg time: 0.0009007611, Average error: 0.0000823322
+Capacity: 3600, Dynamic avg time: 3.5083642475, Greedy avg time: 0.0008975902, Average error: 0.0000728843
+Capacity: 4000, Dynamic avg time: 3.8732149309, Greedy avg time: 0.0008962779, Average error: 0.0000653815
+Capacity: 4400, Dynamic avg time: 4.2373089960, Greedy avg time: 0.0008977093, Average error: 0.0000592792
+Capacity: 4800, Dynamic avg time: 4.6002737988, Greedy avg time: 0.0009060976, Average error: 0.0000542188
+Capacity: 5200, Dynamic avg time: 4.9601883056, Greedy avg time: 0.0009123382, Average error: 0.0000499544
+Capacity: 5600, Dynamic avg time: 5.3187035021, Greedy avg time: 0.0009119052, Average error: 0.0000463119
+Capacity: 6000, Dynamic avg time: 5.6788146485, Greedy avg time: 0.0009104845, Average error: 0.0000431645
